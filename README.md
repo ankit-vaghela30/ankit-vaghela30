@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit-vaghela30&show_icons=true&count_private=true&theme=dracula)
-![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-vaghela30&theme=dracula&layout=compact)
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit-vaghela30&show_icons=true&count_private=true&theme=dracula)
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-vaghela30&theme=dracula&layout=compact)
 -->
 
-<a href="https://github.com/shivaniarbat">
+<a href="https://github.com/ankit-vaghela30">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankit-vaghela30&show_icons=true&count_private=true&theme=dracula" alt="Ankit's github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-vaghela30&theme=dracula&layout=compact" alt="Ankit's github top languages" />
 </a>
